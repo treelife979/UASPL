@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+param/*
+!param/uci_pre_model/
+!param/uci_pre_model/**
+result/
+*.log
